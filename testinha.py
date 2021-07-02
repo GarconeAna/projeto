@@ -1,3 +1,3 @@
 t = 10
 b = 20
-print(b+t)
+print(f'Resultado: {b+t}')
